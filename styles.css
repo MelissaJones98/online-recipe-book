@@ -1,0 +1,18 @@
+:root {
+  --main-bg: #fff8f0;
+  --card-bg: #ffffff;
+  --primary-colour: #ff7f50;
+  --secondary0colour: #333;
+  --accent: #ffe4d6;
+}
+
+body {
+  color: var(--secondary0colour);
+  background-color: var(--main-bg);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+  text-align: center;
+  color: var(--primary-colour);
+}
